@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx watch 1-PlusMinus"
+    "dev": "tsx watch 14-flippingTheMatrix.ts"
   },
   "keywords": [],
   "author": "",
